@@ -1,7 +1,11 @@
 package practice;
 
 import java.util.Scanner;
-
+/**
+ * Created by Edward Hyunwoo Shin. 
+ * Description:  Given user input, find factorial value using recursion
+ * 
+ */
 public class Factorial {
 
 	public static void main(String[] args) {
