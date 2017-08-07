@@ -6,15 +6,14 @@ import java.util.Scanner;
  * Created by Edward Hyunwoo Shin.
  */
 /**
- * Description: Simple Java BBS. Allowed to create up to 10 posts. 
+ * Description: Simple Java BBS. Can be stored up to 10 posts. 
  * Function : 1. Create 2. Read 3. Update 4. Delete 5. List 6. Exit 
- * Post Attribute : 1. No 2. Title 3. Content
+ * Post Attribute : 1. No 2. title 3. Content
  */
- 
-public class bbs {
+public class Bbs01 {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome to the Edward's Simple BBS!!");
+		System.out.println("Wecome to the Edward's Simple BBS!!");
 		Scanner sc = new Scanner(System.in);
 
 		String[][] bbsNum = new String[10][];
@@ -162,7 +161,6 @@ public class bbs {
 			} else {
 				System.out.println("Wrong option. Please choose number from list.");
 			}
-
 		}
 
 	}
