@@ -1,3 +1,3 @@
 # JAVA_Study
-Sharing basic java codes
+Sharing basic java codes and algorithms
 
