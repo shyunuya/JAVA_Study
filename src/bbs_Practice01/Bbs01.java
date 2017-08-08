@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 
 /**
- * Description: Simple Java BBS. Can be stored up to 11 posts.
+ * Description: Simple Java BBS. Can be stored up to 10 posts.
  * Function : 1. Create 2. Read 3. Update 4. Delete 5. List 6. Exit
  * Post Attribute : 1. No 2. title 3. Content
  */
