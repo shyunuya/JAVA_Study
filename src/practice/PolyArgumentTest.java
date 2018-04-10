@@ -61,6 +61,7 @@ class Buyer {
 
         money -= p.price;
         bonusPoint += p.bonusPoint;
+        System.out.println(p + " sold");
 
     }
 }
