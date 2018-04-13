@@ -79,7 +79,7 @@ class SCV extends GroundUnit implements Repairable {
             while (u.hitPoint != u.MAX_HP) {
                 u.hitPoint ++;
             }
-            System.out.println(u.toString() + " repaired completely");
+            System.out.println(u.toString() + " repaired completely, good");
         }
     }
 }
